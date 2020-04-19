@@ -1,0 +1,13 @@
+{
+  "name": "@liaowd/ltest",
+  "version": "1.0.3",
+  "description": "just test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ltest": "ltest.js"
+  },
+  "author": "liaowd",
+  "license": "ISC"
+}
